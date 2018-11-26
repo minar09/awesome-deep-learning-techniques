@@ -12,6 +12,10 @@ B. Data/Input Processing
 
 
 C. Data Augmentation
+  1. Random cropping
+  2. Random padding
+  3. Random horizontal flipping
+  4. Random RGB color shifting
 
 
 D. Decreasing/Changing Learning Rate
