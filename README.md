@@ -32,8 +32,9 @@ E. Regularization
 
 F. Optimization/Gradient Descent
   1. Adam Optimizer
-  2. Stochastic Gradient Descent (SGD)
-  3. SGD with momentum
+  2. SGD with momentum
+  3. Nesterov Accelerated Gradient (NAG)
+  4. Stochastic Gradient Descent (SGD) 
 
 
 G. Normalization
