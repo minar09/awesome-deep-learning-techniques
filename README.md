@@ -1,14 +1,14 @@
 # awesome-deep-learning-techniques
 A curated list of awesome deep learning techniques for deep neural networks training, testing, optimization, regularization etc.
-1. Weight Initialization
-2. Data/Input Processing
-3. Data Augmentation
-4. Decreasing/Changing Learning Rate
-5. Regularization
-6. Optimization/Gradient Descent
-7. Normalization
-8. Activation Function
-9. Segmentation
+- [Weight Initialization](https://github.com/minar09/awesome-deep-learning-techniques/blob/master/README.md#weight-initialization)
+- [Data/Input Processing](https://github.com/minar09/awesome-deep-learning-techniques/blob/master/README.md#data-input-processing)
+- [Data Augmentation](https://github.com/minar09/awesome-deep-learning-techniques/blob/master/README.md#data-augmentation)
+- [Decreasing/Changing Learning Rate](https://github.com/minar09/awesome-deep-learning-techniques/blob/master/README.md#decreasing-changing-learning-rate)
+- [Regularization](https://github.com/minar09/awesome-deep-learning-techniques/blob/master/README.md#regularization)
+- [Optimization/Gradient Descent](https://github.com/minar09/awesome-deep-learning-techniques/blob/master/README.md#optimization-gradient-descent)
+- [Normalization](https://github.com/minar09/awesome-deep-learning-techniques/blob/master/README.md#normalization)
+- [Activation Function](https://github.com/minar09/awesome-deep-learning-techniques/blob/master/README.md#activation-function)
+- [Segmentation](https://github.com/minar09/awesome-deep-learning-techniques/blob/master/README.md#segmentation)
 
 
 ## Weight Initialization
