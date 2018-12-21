@@ -1,50 +1,54 @@
 # awesome-deep-learning-techniques
 A curated list of awesome deep learning techniques for deep neural networks training, testing, optimization, regularization etc.
 
-A. Weight Initialization
-  1. Xavier Initialization
-  2. He Initialization
+
+## Weight Initialization
+  ### Xavier Initialization
+  ### He Initialization
 
 
-B. Data/Input Processing
-  1. Input pipelining
-  2. Queues
+## Data/Input Processing
+  ### Input pipelining
+  ### Queues
 
 
-C. Data Augmentation
-  1. Random cropping
-  2. Random padding
-  3. Random horizontal flipping
-  4. Random RGB color shifting
+## Data Augmentation
+
+  ### Random cropping
+  ### Random padding
+  ### Random horizontal flipping
+  ### Random RGB color shifting
 
 
-D. Decreasing/Changing Learning Rate
-  1. Learning rate decay
-  2. Cyclic learning rate
+## Decreasing/Changing Learning Rate
+
+  ### Learning rate decay
+  ### Cyclic learning rate
 
 
-E. Regularization
-  1. Weight decay
-    a. L2 loss
-    b. L1 loss
-  2. Dropout
+## Regularization
+
+  ### Weight decay
+    #### L2 loss
+    #### L1 loss
+  ### Dropout
 
 
-F. Optimization/Gradient Descent
-  1. Adam Optimizer
-  2. SGD with momentum
-  3. Nesterov Accelerated Gradient (NAG)
-  4. Stochastic Gradient Descent (SGD) 
+## Optimization/Gradient Descent
+  ### Adam Optimizer
+  ### SGD with momentum
+  ### Nesterov Accelerated Gradient (NAG)
+  ### Stochastic Gradient Descent (SGD) 
 
 
-G. Normalization
-  1. Batch Normalization
-  2. Local Response Normalization (LRN)
+## Normalization
+  ### Batch Normalization
+  ### Local Response Normalization (LRN)
 
 
-H. Activation Function
-  1. ReLU
-  2. Sigmoid
+## Activation Function
+  ### ReLU
+  ### Sigmoid
   
  
 
