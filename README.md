@@ -67,9 +67,8 @@ A curated list of awesome deep learning techniques for deep neural networks trai
   
 ## Segmentation
 
-  - FCN
-  - U-Net
-  - DeepLab
+  - Conditional Random Fields (CRF)
+  - Skip Connections/ Fusions
   
   
 
