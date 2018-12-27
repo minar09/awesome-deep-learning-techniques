@@ -67,8 +67,13 @@ A curated list of awesome deep learning techniques for deep neural networks trai
   
 ## Segmentation
 
+  - Fully Convolutional models
   - Conditional Random Fields (CRF)
   - Skip Connections/ Fusions
+  - Upsampling/ Transpose Convolutions
+  - Atrous/Dilated Convolutions
+  - Pixel wise cross entropy loss
+  - Dataset and annotations
   
   
 
