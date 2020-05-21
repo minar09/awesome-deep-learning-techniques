@@ -72,6 +72,8 @@ A curated list of awesome deep learning techniques for deep neural networks trai
   - Skip Connections/ Fusions
   - Upsampling/ Transpose Convolutions
   - Atrous/Dilated Convolutions
+  - Multi-scale inputs/nets with weights
+  - Attention to scale
   - Pixel wise cross entropy loss
   - Dataset and annotations
   
